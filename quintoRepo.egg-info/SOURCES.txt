@@ -1,0 +1,7 @@
+README.md
+setup.py
+quintoRepo/__init__.py
+quintoRepo.egg-info/PKG-INFO
+quintoRepo.egg-info/SOURCES.txt
+quintoRepo.egg-info/dependency_links.txt
+quintoRepo.egg-info/top_level.txt
